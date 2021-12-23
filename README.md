@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 -->
 
 ![devyuseon's github stats](https://github-readme-stats.vercel.app/api?username=devyuseon&show_icons=true&theme=radical&count_private=true)
-
-[![devyuseon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devyuseon&show_icons=true&theme=radical&layout=compact)](https://github.com/yuseon-Lim)
