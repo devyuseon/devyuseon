@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ### About Backjoon (Solved.ac)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys4486)](https://solved.ac/lys4486/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys4486&theme=warm)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys4486&theme=warm)](https://solved.ac/lys4486/)
