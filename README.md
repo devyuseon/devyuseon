@@ -1,15 +1,26 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuseon-Lim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### INFROMATION
 
-### 🔥 관심있어요!
+- Email : lys4486@gmail.com
+- Blog : https://devyuseon.github.io/
 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-### :love_letter: About me
-- Blog: https://devyuseon.github.io
-  - [Velog](https://velog.io/@dogakday) 에서 이사중🧗
-- Email: lys4486@gmail.com
+### SKILLS
 
+- Programming Language
+  - Java, Python
+- Back-End
+  - Spring Framwork, JPA, Flask
+- Database
+  - MySQL(MariaDB), Firebase, Elasticsearch
+- Version Control
+  - Git
+  
 
+### Project
 
+- 2021.12-2022.06 [마모모(마음을 모두 모아)](https://github.com/2E2I/mamomo-server)
+- 2022.03-2022.12 [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)
+- 2022.08-2022.09 피버코리아 창업 프로젝트 단기 참여
+- 2021.07-2021.09 [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)
  
 <!--
 **yuseon-Lim/yuseon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +44,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys4486)](https://solved.ac/lys4486/)
 
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys4486&theme=warm)](https://solved.ac/lys4486/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuseon-Lim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
