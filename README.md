@@ -1,7 +1,7 @@
 ### INFROMATION
 
 - Email : lys4486@gmail.com
-- Blog : https://devyuseon.github.io/
+- Blog : [https://knewnew.tistory.com/](https://knewnew.tistory.com/) - 블로그 이사중
 
 ### SKILLS
 
