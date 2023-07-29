@@ -6,14 +6,22 @@
 ### SKILLS
 
 - Programming Language
-  - Java, Python
+  - Java, Python, Javascript
 - Back-End
   - Spring Framwork, JPA, Flask
 - Database
   - MySQL(MariaDB), Firebase, Elasticsearch
+- DevOps
+  - Docker
 - Version Control
   - Git
-  
+
+### Work Experience
+#### Ahnlab
+- FullStack Web Developer
+- 2023.04.10 ~
+- Ahnreport Public Service 유지보수, 기능 개발
+- Spring Framework, Docker, Node.js+Express, Angualer.js
 
 ### Project
 
