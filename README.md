@@ -1,7 +1,14 @@
 ### INFROMATION
 
 - Email : lys4486@gmail.com
-- Blog : [https://knewnew.tistory.com/](https://knewnew.tistory.com/) - 블로그 이사중
+- Blog : [https://knewnew.tistory.com/](https://knewnew.tistory.com/)
+    <details>
+    <summary>블로그 철새🕊️입니다. 지금 블로그가 "찐_찐_마지막 블로그!" (과거 블로그 구경하기 ↓)</summary>
+      <ul>
+        <li><a href="https://devyuseon.github.io/">https://devyuseon.github.io/</a></li>
+        <li><a href="https://velog.io/@dogakday">https://velog.io/@dogakday</a></li>
+      </ul>
+    </details>
 
 ### SKILLS
 
@@ -9,6 +16,8 @@
   - Java, Python, Javascript
 - Back-End
   - Spring Framwork, JPA, Flask
+- Front-end
+  - AngularJS
 - Database
   - MySQL(MariaDB), Firebase, Elasticsearch
 - DevOps
@@ -21,7 +30,7 @@
 - FullStack Web Developer
 - 2023.04.10 ~
 - Ahnreport Public Service 유지보수, 기능 개발
-- Spring Framework, Docker, Node.js+Express, Angualer.js
+- `Spring Framework` `Docker` `Node.js+Express` `AngualerJS` `Opensearch`
 
 ### Project
 
