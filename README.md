@@ -29,7 +29,7 @@
 #### Ahnlab
 - FullStack Web Developer
 - 2023.04.10 ~
-- Ahnreport Server 유지보수, 기능 개발
+- Ahnreport Server(기술지원 사내 웹 서비스) 유지보수, 기능 개발
 - `Spring Framework` `Docker` `Node.js+Express` `AngualerJS` `Opensearch`
 
 ### Project
