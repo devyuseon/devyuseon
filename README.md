@@ -9,6 +9,7 @@
         <li><a href="https://velog.io/@dogakday">https://velog.io/@dogakday</a></li>
       </ul>
     </details>
+- Resume : [바로가기↗️](https://yuseonlim.notion.site/Portfolio-ff8c0bfe1f944c138a8c3f9e474812b6?pvs=4)
 
 ### SKILLS
 
