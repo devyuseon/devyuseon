@@ -40,6 +40,11 @@
 - 2022.08-2022.09 피버코리아 창업 프로젝트 단기 참여
 - 2021.07-2021.09 [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)
  
+
+### Blog Posts
+<!-- RECENT POST START -->
+<!-- RECENT POST END -->
+
 <!--
 **yuseon-Lim/yuseon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
