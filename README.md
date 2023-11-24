@@ -42,11 +42,11 @@
 
 ### Blog Posts
 <!-- RECENT POST START -->
+- 2023-11-24 [[Github 잔디심기] Tistory 글 업로드시 Github에 커밋 (Python)](https://knewnew.tistory.com/entry/Github-%EC%9E%94%EB%94%94%EC%8B%AC%EA%B8%B0-Tistory-%EA%B8%80-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%9C-Github%EC%97%90-%EC%BB%A4%EB%B0%8B-Python)
 - 2023-09-23 [[프로그래머스] 2023 KAKAO BLIND RECRUITMENT | 이모티콘 할인행사](https://knewnew.tistory.com/entry/Programmers-2023-KAKAO-BLIND-RECRUITMENT-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)
 - 2023-09-17 [[Infra] Scale Out 과 Scale Up](https://knewnew.tistory.com/entry/Database-Scale-Out-%EA%B3%BC-Scale-Up)
 - 2023-09-17 [[Database] RDBMS vs NoSQL (관계형DB vs 비관계형DB)](https://knewnew.tistory.com/entry/Database-RDBMS-vs-NOSQL-%EA%B4%80%EA%B3%84%ED%98%95DB-vs-%EB%B9%84%EA%B4%80%EA%B3%84%ED%98%95DB)
 - 2023-09-11 [[Javascript] Lexical Scope (렉시컬 스코프) 란?](https://knewnew.tistory.com/entry/Javascript-Lexical-Scope-%EB%A0%89%EC%8B%9C%EC%BB%AC-%EC%8A%A4%EC%BD%94%ED%94%84-%EB%9E%80)
-- 2023-09-04 [[Linux] /var/db/sudo/lectured/ 의 정체는?](https://knewnew.tistory.com/entry/Linux-vardbsudolectured-%EC%9D%98-%EC%A0%95%EC%B2%B4%EB%8A%94)
 <!-- RECENT POST END -->
 
 <!--
