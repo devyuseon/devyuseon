@@ -41,7 +41,7 @@ jobs:
       - name: Check for Changes
         id: check_changes
         run: |
-          git diff --exit-code
+          git diff --exit-code || echo "file have changed"
       - name: Set Commit Message
         run: |
           COMMIT_MESSAGE="[auto] $(date -u +"%Y-%m-%d") Blog Posting List Update"
