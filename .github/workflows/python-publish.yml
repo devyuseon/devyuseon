@@ -53,8 +53,8 @@ jobs:
       - name: Commit README
         if: steps.check_changes.outputs.code == 0
         run: |
-          git config --global user.email "이메일"
-          git config --global user.name "이름"
+          git config --global user.email "67352902+devyuseon@users.noreply.github.com"
+          git config --global user.name "yuseonLim"
           git add .
           git commit -m "$COMMIT_MESSAGE"
-          git push
+          git push https://$MY_TOKEN@github.com/devyuseon/devyuseon.git HEAD:main
