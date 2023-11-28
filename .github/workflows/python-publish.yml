@@ -48,7 +48,7 @@ jobs:
 
       - name: Output Message If No Changes
         if: steps.check_changes.outputs.code != 1
-        run: echo "No changes to commit."
+        run: echo steps.check_changes.outputs.code
           
       - name: Commit README
         if: steps.check_changes.outputs.code == 1
