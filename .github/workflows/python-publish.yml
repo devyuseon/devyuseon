@@ -47,11 +47,11 @@ jobs:
           COMMIT_MESSAGE="[auto] $(date -u +"%Y-%m-%d") Blog Posting List Update"
 
       - name: Output Message If No Changes
-        if: steps.check_changes.outputs.code == 1
+        if: steps.check_changes.outputs.code == 0
         run: echo "No changes to commit."
           
       - name: Commit README
-        if: steps.check_changes.outputs.code != 1
+        if: steps.check_changes.outputs.code != 0
         run: |
           git config --global user.email "67352902+devyuseon@users.noreply.github.com"
           git config --global user.name "yuseonLim"
