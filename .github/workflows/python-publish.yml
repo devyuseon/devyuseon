@@ -42,10 +42,6 @@ jobs:
         id: check_changes
         run: |
           git diff --exit-code || echo "file have changed"
-      - name: Set Commit Message
-        run: |
-          COMMIT_MESSAGE="[auto] $(date -u +"%Y-%m-%d") Blog Posting List Update"
-
       - name: Output Message If No Changes
         if: steps.check_changes.outputs.code == 1
         run: echo "No changes to commit."
@@ -56,5 +52,5 @@ jobs:
           git config --global user.email "67352902+devyuseon@users.noreply.github.com"
           git config --global user.name "yuseonLim"
           git add .
-          git commit -m "$COMMIT_MESSAGE"
-          git push https://$MY_TOKEN@github.com/devyuseon/devyuseon.git HEAD:main
+          git commit -m "[auto] $(date -u +"%Y-%m-%d") Blog Posting List Update"
+          git push origin main
