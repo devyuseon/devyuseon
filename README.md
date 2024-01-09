@@ -42,11 +42,11 @@
 
 ### Blog Posts
 <!-- RECENT POST START -->
+- 2024-01-09 [오픈소스 첫 기여 ⭐️ - Docker Docs (compose-spec)](https://knewnew.tistory.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC-%E2%AD%90%EF%B8%8F-Docker-Docs-compose-spec)
 - 2024-01-02 [[Java] 에러 메시지, StackTrace가 생략되는 문제](https://knewnew.tistory.com/entry/Java-StackTrace%EA%B0%80-%EC%83%9D%EB%9E%B5%EB%90%98%EC%96%B4-%EB%82%98%ED%83%80%EB%82%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 - 2023-11-28 [[Spring] Spring Scheduler의 기본 설정은 싱글 스레드이다.](https://knewnew.tistory.com/entry/Spring-Spring-Scheduler%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%EC%9D%80-%EC%8B%B1%EA%B8%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%B4%EB%8B%A4)
 - 2023-11-24 [[Github 잔디심기 ] Tistory 글 업로드시 Github에 커밋 (Python)](https://knewnew.tistory.com/entry/Github-%EC%9E%94%EB%94%94%EC%8B%AC%EA%B8%B0-Tistory-%EA%B8%80-%EC%97%85%EB%A1%9C%EB%93%9C%EC%8B%9C-Github%EC%97%90-%EC%BB%A4%EB%B0%8B-Python)
 - 2023-09-23 [[프로그래머스] 2023 KAKAO BLIND RECRUITMENT | 이모티콘 할인행사](https://knewnew.tistory.com/entry/Programmers-2023-KAKAO-BLIND-RECRUITMENT-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)
-- 2023-09-17 [[Infra] Scale Out 과 Scale Up](https://knewnew.tistory.com/entry/Database-Scale-Out-%EA%B3%BC-Scale-Up)
 <!-- RECENT POST END -->
 
 <!--
