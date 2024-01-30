@@ -38,6 +38,9 @@
 - 2022.03-2022.12 [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)
 - 2022.08-2022.09 피버코리아 창업 프로젝트 단기 참여
 - 2021.07-2021.09 [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)
+
+### Opensource Contribution
+- [@docker-spec](https://github.com/compose-spec/compose-spec/pull/454)
  
 
 ### Blog Posts
