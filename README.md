@@ -40,7 +40,7 @@
 - 2021.07-2021.09 [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)
 
 ### Opensource Contribution
-- [@docker-spec](https://github.com/compose-spec/compose-spec/pull/454)
+- [@docker-spec 문서 링크 텍스트 수정](https://github.com/compose-spec/compose-spec/pull/454)
  
 <!-- ### Blog Posts -->
 <!-- RECENT POST START -->
