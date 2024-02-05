@@ -1,14 +1,7 @@
 ### INFROMATION
 
 - Email : lys4486@gmail.com
-- Blog : [https://knewnew.tistory.com/](https://knewnew.tistory.com/)
-    <details>
-    <summary>블로그 철새🕊️입니다. 지금 블로그가 "찐_찐_마지막 블로그!" (과거 블로그 구경하기 ↓)</summary>
-      <ul>
-        <li><a href="https://devyuseon.github.io/">https://devyuseon.github.io/</a></li>
-        <li><a href="https://velog.io/@dogakday">https://velog.io/@dogakday</a></li>
-      </ul>
-    </details>
+- Blog : [https://devyuseon.github.io/](https://devyuseon.github.io/)
 - Resume : [바로가기↗️](https://yuseonlim.notion.site/Portfolio-ff8c0bfe1f944c138a8c3f9e474812b6?pvs=4)
 
 ### SKILLS
