@@ -9,9 +9,7 @@
 - Programming Language
   - Java, Javascript, Python 
 - Back-End
-  - Spring Framwork, JPA, Node.js+Express, Flask
-- Front-End
-  - AngularJS
+  - Spring Framwork, JPA, Node.js+Express
 - Database
   - MySQL(MariaDB), Elasticsearch(Opensearch)
 - DevOps
