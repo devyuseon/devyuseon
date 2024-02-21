@@ -19,12 +19,8 @@
 
 ## Work Experience
 ### Ahnlab, Inc / BackEnd Engineer @ 공통모듈개발팀 (2023.04 ~ 현재)
-- Spring Boot + Node.js(+Express) 기반 웹 서버 개발/운영
+- Spring Boot + Node.js(+Express) 기반 개발/운영
 - AngularJS 기반 개발/운영
-- Docker, Docker Swarm Mode 기반 서비스 운영, 리눅스(Rocky Linux) 서버 관리
-- Docker Desktop 유료화로 인해 Dockerfile, Docker Compose, WSL2 이용한 로컬 환경을 구축해 팀 내 공유, 개발 생산성 증가
-- Opensearch snapshot shell script를 Spring scheduler로 전환
-- Python 정기점검 스크립트 개발
 - `Spring Framework` `Docker` `Node.js+Express` `AngualerJS` `Opensearch`
 
 ## Project
