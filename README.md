@@ -2,7 +2,6 @@
 
 - Email : lys4486@gmail.com
 - Blog : [https://devyuseon.github.io/blog](https://devyuseon.github.io/blog)
-- Resume : [바로가기↗️](https://yuseonlim.notion.site/Portfolio-ff8c0bfe1f944c138a8c3f9e474812b6?pvs=4)
 
 ## SKILLS
 
