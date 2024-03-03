@@ -25,7 +25,7 @@
 ## Project
 | 기간	 | 프로젝트 |
 | :--: | :--|
-| 2023.2.25 ~	 | Bag To The Futre](https://github.com/backtothefuture-team/backtothefuture-backend)	 |
+| 2023.2.25 ~	 | [Bag To The Futre](https://github.com/backtothefuture-team/backtothefuture-backend)	 |
 | 2021.12 ~ 2022.06	 | [마모모(마음을 모두 모아)](https://github.com/2E2I/mamomo-server)	 | 
 | 2022.03 ~ 2022.12	 | [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)	 | 	
 | 2022.08 ~ 2022.09	 | 피버코리아 창업 프로젝트 단기 참여	 | 	
