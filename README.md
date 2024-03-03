@@ -23,10 +23,13 @@
 - `Spring Framework` `Docker` `Node.js+Express` `AngualerJS` `Opensearch`
 
 ## Project
-- 2021.12-2022.06 [마모모(마음을 모두 모아)](https://github.com/2E2I/mamomo-server)
-- 2022.03-2022.12 [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)
-- 2022.08-2022.09 피버코리아 창업 프로젝트 단기 참여
-- 2021.07-2021.09 [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)
+| 기간	 | 프로젝트 |
+| :--: | :--|
+| 2023.2.25 ~	 | Bag To The Futre](https://github.com/backtothefuture-team/backtothefuture-backend)	 |
+| 2021.12 ~ 2022.06	 | [마모모(마음을 모두 모아)](https://github.com/2E2I/mamomo-server)	 | 
+| 2022.03 ~ 2022.12	 | [QUFA (Data Quality and Fairness) Data Quality 프로젝트 참여](https://gitlab.com/qufa)	 | 	
+| 2022.08 ~ 2022.09	 | 피버코리아 창업 프로젝트 단기 참여	 | 	
+| 2021.07 ~ 2021.09	 | [Fillin Map](https://github.com/HSUITContestTeam/fillin-map)	 | 
 
 ## Opensource Contribution
 - [@compose-spec/compose-spec 문서 링크 텍스트 수정](https://github.com/compose-spec/compose-spec/pull/454)
