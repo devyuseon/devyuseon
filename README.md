@@ -1,7 +1,7 @@
 ## INFROMATION
 
 - Email : lys4486@gmail.com
-- Blog : [https://devyuseon.github.io/blog](https://devyuseon.github.io/blog)
+- Blog : [https://dogakday.com/blog](https://dogakday.com/blog)
 
 ## SKILLS
 
