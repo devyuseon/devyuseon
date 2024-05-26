@@ -1,4 +1,7 @@
-## INFROMATION
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+
+## About Me
 
 - Email : lys4486@gmail.com
 - Blog : [https://dogakday.com/blog](https://dogakday.com/blog)
@@ -15,12 +18,6 @@
   - Docker
 - Version Control
   - Git
-
-## Work Experience
-### Ahnlab, Inc / BackEnd Engineer @ 공통모듈개발팀 (2023.04 ~ 현재)
-- Spring Boot + Node.js(+Express) 기반 개발/운영
-- AngularJS 기반 개발/운영
-- `Spring Framework` `Docker` `Node.js+Express` `AngualerJS` `Opensearch`
 
 ## Project
 | 기간	 | 프로젝트 |
@@ -39,27 +36,17 @@
 
 <!-- RECENT POST END -->
 
-<!--
-**yuseon-Lim/yuseon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyuseon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=devyuseon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuseon-Lim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></img>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### About Github
-![devyuseon's github stats](https://github-readme-stats.vercel.app/api?username=devyuseon&show_icons=true&theme=radical&count_private=true)
-
-### About Backjoon (Solved.ac)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys4486)](https://solved.ac/lys4486/)
-
-<!-- [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys4486&theme=warm)](https://solved.ac/lys4486/) -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuseon-Lim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
